@@ -1,6 +1,6 @@
 # AdamNumber
 
-public class AdamNumber {
+public class AdamNumber{
 
 	public static void main(String[] args) {
 		int n =12;// Integer.parseInt(args[0]);
